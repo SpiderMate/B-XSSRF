@@ -22,11 +22,5 @@
 
 <img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/dashboard.png" alt="B-XSSRF">
 
-<p><b>LOGIN</b></p>
-
-<img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/login.png" alt="B-XSSRF">
-
-<p><b>SETTINGS</b></p>
-
-<img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/settings.png" alt="B-XSSRF">
+<p><b>SETUP :</b></p>
 
