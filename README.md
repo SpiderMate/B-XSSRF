@@ -20,6 +20,5 @@
   </a>
 </p>
 
-<div style="border: 1px solid #000;">
 <img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/dashboard.png" alt="B-XSSRF">
-</div>
+
