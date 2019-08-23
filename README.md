@@ -51,7 +51,7 @@ GET /testssrf.php=http://mysite.com/bxssrf/request.php
 
 ```
 ### DEFAULT CREDENTIALS
-
+```
 USER : admin@test.com
 PASS : 123456
-
+```
