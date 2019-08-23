@@ -24,8 +24,8 @@
 
 #### LOGIN 
 
-<center><img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/login.png" width="500" alt="B-XSSRF"></center>
+<img align="center" src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/login.png" width="500" alt="B-XSSRF">
 
 #### SETTINGS
 
-<center><img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/settings.png" width="500" alt="B-XSSRF"></center>
+<img align="center" src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/settings.png" width="500" alt="B-XSSRF">
