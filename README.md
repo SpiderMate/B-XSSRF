@@ -1,2 +1,2 @@
 # B-XSSRF
-Toolkit to detect Blind XSS, XXE &amp; SSRF
+ Toolkit to detect and keep track on Blind XSS, XXE & SSRF 
