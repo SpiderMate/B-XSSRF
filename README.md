@@ -1,5 +1,13 @@
-# B-XSSRF
- Toolkit to detect and keep track on Blind XSS, XXE & SSRF 
+<h1 align="center">
+  <br>
+  <a href=""><img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/logo.png" alt="B-XSSRF"></a>
+  <br>
+  XSStrike
+  <br>
+</h1>
+
+<h4 align="center">Toolkit to detect and keep track on Blind XSS, XXE & SSRF</h4>
+
 <p align="center">
   <a href="https://github.com/SpiderMate/PS-Ducky/releases">
     <img src="https://img.shields.io/badge/release-v0.1-blue.svg">
