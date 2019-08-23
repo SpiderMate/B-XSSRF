@@ -19,3 +19,6 @@
     <img src="https://img.shields.io/badge/php-5-green.svg">
   </a>
 </p>
+
+
+![Dashboard Img](https://github.com/SpiderMate/B-XSSRF/blob/master/img/dashboard.png)
