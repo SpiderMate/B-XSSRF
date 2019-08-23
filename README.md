@@ -2,7 +2,7 @@
   <br>
   <a href=""><img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/logo.png" alt="B-XSSRF"></a>
   <br>
-  XSStrike
+  B-XSSRF
   <br>
 </h1>
 
