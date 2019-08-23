@@ -23,5 +23,6 @@
 <img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/dashboard.png" alt="B-XSSRF">
 
 ### SETUP
-- Create a Database and upload <b>database.sql<b> file to it.
+- Create a Database and upload <b>database.sql</b> file to it.
+- Change the <b>DB Credentials</b> in <b>db.php</b> file.
 
