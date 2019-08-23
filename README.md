@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/icon.png" alt="B-XSSRF"></a>
+  <a href=""><img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/icon.png" width="100" height="100" alt="B-XSSRF"></a>
   <br>
   B-XSSRF
   <br>
