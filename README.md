@@ -22,3 +22,10 @@
 
 <img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/dashboard.png" alt="B-XSSRF">
 
+#### LOGIN 
+
+<img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/login.png" alt="B-XSSRF">
+
+#### SETTINGS
+
+<img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/settings.png" alt="B-XSSRF">
