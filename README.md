@@ -29,5 +29,15 @@
 - Ready.
 
 ### USAGE
+BLIND XSS EXAMPLE
 
+```
+```
+BLIND XSS EXAMPLE
 
+```
+```
+BLIND XSS EXAMPLE
+
+```
+```
