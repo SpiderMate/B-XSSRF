@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/icon.png" width="100" height="100" alt="B-XSSRF"></a>
+  <a href=""><img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/icon.png" width="70" height="70" alt="B-XSSRF"></a>
   <br>
   B-XSSRF
   <br>
@@ -10,12 +10,12 @@
 
 <p align="center">
   <a href="https://github.com/SpiderMate/PS-Ducky/releases">
-    <img src="https://img.shields.io/badge/release-v0.1-blue.svg">
+    <img src="https://img.shields.io/badge/release-v1.0-blue.svg">
   </a>
   <a href="https://github.com/SpiderMate/PS-Ducky/issues">
     <img src="https://img.shields.io/badge/issues-0-red.svg">
   </a>
     <a href="https://github.com/SpiderMate/PS-Ducky/issues">
-    <img src="https://img.shields.io/badge/php-7-green.svg">
+    <img src="https://img.shields.io/badge/php-5-green.svg">
   </a>
 </p>
