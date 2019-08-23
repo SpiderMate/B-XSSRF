@@ -22,5 +22,6 @@
 
 <img src="https://github.com/SpiderMate/B-XSSRF/blob/master/img/dashboard.png" alt="B-XSSRF">
 
-<p><b>SETUP :</b></p>
+### SETUP
+- Create a Database and upload <b>database.sql<b> file to it.
 
